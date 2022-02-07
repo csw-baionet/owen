@@ -4,14 +4,19 @@ service:
   title : Nos services
   service_item :
     # service item loop
-    - name : Machine virtuelle le canif
+    - name : Machine virtuelle    "le canif"
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
       content : A partir de 2€ par mois. Le canif de chez Baionet ":" 1 coeur, 512Mo de mémoire,  20Go, de disque  IPv6
       
     # service item loop
-    - name : Machine virtuelle couteau
+    - name : Machine virtuelle    "petit couteau"
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
       content : A partir de 4€ par mois. Le canif de chez Baionet ":" 1 coeur + 1Go de mémoire, 40Go de disque, IPv6
+      
+    # service item loop
+    - name : Machine virtuelle sur-mesure
+      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      content : demandez-nous !
       
     # service item loop
     - name : ADSL
@@ -20,15 +25,11 @@ service:
       
     # service item loop
     - name : Wifi
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : Un de nos outil préféré !
       
     # service item loop
     - name : Fibre
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
       content : On recherche des beta-testeurs !
       
-    # service item loop
-    - name : Sécurité
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : 
