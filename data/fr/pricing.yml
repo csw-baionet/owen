@@ -14,7 +14,7 @@ pricing:
         - 20 Go de disque
         - IPv6
       button:
-        label : "Signup"
+        label : "Demander"
         link : "#"
       
     # pricing table loop
@@ -28,7 +28,7 @@ pricing:
         - 40 Go de disque
         - IPv6
       button:
-        label : "Signup"
+        label : "Demander"
         link : "#"
         
     # pricing table loop
@@ -39,5 +39,29 @@ pricing:
         - Utilisation "raisonnable"
         - Via tunnel wireguard
       button:
-        label : "Signup"
+        label : "Demander"
         link : "#"
+        
+    # pricing table loop
+    - name : VPN
+      price : 5€
+      unit : mois
+      services:
+        - Via tunnel wireguard
+      button:
+        label : "Demander"
+        link : "#"
+
+
+    # pricing table loop
+    - name : ADSL
+      price : xx€
+      unit : mois
+      services:
+        - Utilisation "raisonnable"
+        - Via tunnel wireguard
+      button:
+        label : "Demander"
+        link : "#"
+
+
