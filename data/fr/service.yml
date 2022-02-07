@@ -6,7 +6,7 @@ service:
     # service item loop
     - name : Machine virtuelle le canif
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : A partir de 2€ par mois. Le canif de chez Baionet :  un coeur + 512Mo de RAM + 20Go de disque + IPv6
+      content : A partir de 2€ par mois. Le canif de chez Baionet :  un coeur 512Mo de RAM  20Go de disque  IPv6
       
     # service item loop
     - name : Machine virtuelle couteau
