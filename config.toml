@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://owen.pizzacoca.fr"
+baseURL = "https://ktrc.csw.pizzacoca.fr"
 title = "Meghna"
 theme = "meghna-hugo"
 # post pagination
