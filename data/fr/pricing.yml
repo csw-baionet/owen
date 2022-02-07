@@ -1,64 +1,43 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : Our Plans
+  title : Nos services
   pricing_table :
     # pricing table loop
-    - name : Free
-      price : $99
-      unit : month
+    - name : VM "Canif"
+      price : 2€
+      unit : mois
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - 1 coeur
+        - 512 Mo de mémoire
+        - Connexion ssh
+        - 20 Go de disque
+        - IPv6
       button:
         label : "Signup"
         link : "#"
       
     # pricing table loop
-    - name : Silver
-      price : $149
-      unit : month
+    - name : VM "Couteau"
+      price : 4€
+      unit : mois
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - 1 coeur
+        - 1 Go de mémoire
+        - Connexion ssh
+        - 40 Go de disque
+        - IPv6
       button:
         label : "Signup"
         link : "#"
         
     # pricing table loop
-    - name : Gold
-      price : $199
-      unit : month
+    - name : IPv4
+      price : 1€
+      unit : mois
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
-        
-    # pricing table loop
-    - name : Platinum
-      price : $299
-      unit : month
-      services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Utilisation "raisonnable"
+        - Via tunnel wireguard
       button:
         label : "Signup"
         link : "#"
