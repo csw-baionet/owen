@@ -33,3 +33,7 @@ skill:
     - name :  Android
       percent : 90%
 
+    # skill item loop
+    - name :  Relationel
+      percent : 200%
+
