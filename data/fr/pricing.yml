@@ -1,51 +1,47 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : Our Plans
+  title : Mes tarifs
   pricing_table :
     # pricing table loop
-    - name : Free
-      price : $99
-      unit : month
+    - name : Initiation Informatique
+      price : 60€
+      unit : Deux heures
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Envoyer et recevoir ses emails
+        - Paramétrage de client mail
+        - Différence entre pièce jointes et lien
+        - Sauvegarde de pièce jointe
+        - Sauvegarde de mails
       button:
-        label : "Signup"
+        label : "Choisir"
         link : "#"
       
     # pricing table loop
-    - name : Silver
-      price : $149
-      unit : month
+    - name : Initiation smartphone
+      price : 40€
+      unit : Une heure
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Configuration du client mail
+        - Envoyer et recevoir des messages.
+        - Installation des applications
+        - Sauvegarde sur SIM 
       button:
-        label : "Signup"
+        label : "Choisir"
         link : "#"
         
     # pricing table loop
-    - name : Gold
-      price : $199
-      unit : month
+    - name : Installation de poste
+      price : 60€
+      unit : Deux heures
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Installation
+        - Configuration
+        - Mises à jour
+        - Compte d'utilisateur
+        - Installation d'applications
       button:
-        label : "Signup"
+        label : "Choisir"
         link : "#"
         
     # pricing table loop
