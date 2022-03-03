@@ -3,25 +3,25 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : Je suis technicien d'assistance informatique.
+  content : "Passionné"
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
+    - title : Support utilisateurs niveau 1 et 2
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Windows, mac ou linux
       
       # feature item loop
-    - title : Easy Customization
+    - title : Maintenance de parc informatique
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
 
       # feature item loop
-    - title : SEO Optimized
+    - title : Travail en équipe
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : C'est avec facilité que je m'intègrerai à votre équipe
       
       # feature item loop
-    - title : Easy Customization
+    - title : Disponible sur le grand Dax
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Je suis également mobile sur la région de Bayonne
