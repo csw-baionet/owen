@@ -1,17 +1,17 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Mes services
+  title : Mes activités
   service_item :
     # service item loop
-    - name : WordPress Theme
+    - name : Informatique
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Formation, installation et paramétrage.
       
     # service item loop
-    - name : Responsive Design
+    - name : Adaptabilité
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Je m'adapte à tout public de 7 à 97 ans
       
     # service item loop
     - name : Media &amp; Advertisement
