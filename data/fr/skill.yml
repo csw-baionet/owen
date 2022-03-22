@@ -7,7 +7,7 @@ skill:
   image : images/about/company-growth.webp
   skill_item :
     # skill item loop
-    - name :  Réparations électroménager
+    - name :  Réparations 
       percent : 90%
       
     # skill item loop
@@ -15,12 +15,12 @@ skill:
       percent : 70%
       
     # skill item loop
-    - name :  Design
+    - name :  Changer des pièces
       percent : 80%
       
-    - name :  IOS Development
+    - name :  Chercher un local
       percent : 95%
       
     # skill item loop
-    - name :  Android Development
+    - name :  Boire du café
       percent : 75%
