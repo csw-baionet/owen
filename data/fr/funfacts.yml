@@ -10,9 +10,9 @@ funfacts:
       count : "623"
     
     # counter item loop
-    - title : "Masse recyclée"
+    - title : "Kg recyclés"
       icon : "ti-archive" # themify icon pack : https://themify.me/themify-icons
-      count : "350 Kg"
+      count : "350"
     
     # counter item loop
     - title : "Réparations"
@@ -22,4 +22,4 @@ funfacts:
     # counter item loop
     - title : "Cafés"
       icon : "ti-gift" # themify icon pack : https://themify.me/themify-icons
-      count : "250 litres"
+      count : "250"
