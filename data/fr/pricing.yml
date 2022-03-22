@@ -1,12 +1,12 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : Our Plans
+  title : Nous rejoindre
   pricing_table :
     # pricing table loop
-    - name : Free
-      price : $99
-      unit : month
+    - name : Adhésion libre
+      price : Tarif libre 
+      unit : an
       services:
         - 1GB Disk Space
         - 10 Email Account

@@ -8,10 +8,6 @@ banner:
   content : "En recherche d'un local . . . !"
   button:
     enable : true
-    label : "Nous découvrir"
-    link : "#services"
-  button:
-    enable : true
     label : "La boutique"
     link : "#portfolio"
 

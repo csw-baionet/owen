@@ -1,14 +1,14 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Us
-  subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
-
+  title : Nous contacter
+  subtitle : Contact
+  content : Nous tenons la boutique ouverte lorsque nous avons un local
+    .
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+      info : "Petit Bayonne"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Phone: +880-31-000-000"
