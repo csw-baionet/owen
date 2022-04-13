@@ -103,17 +103,17 @@ weight = 8
 
 ################### French Navigation ########################
 [[Languages.fr.menu.main]]
-name = "sur"
+name = "Propos"
 url = "#about"
 weight = 1
 
 [[Languages.fr.menu.main]]
-name = "un service"
+name = "service"
 url = "#services"
 weight = 2
 
 [[Languages.fr.menu.main]]
-name = "portefeuille"
+name = "Boutique"
 url = "#portfolio"
 weight = 3
 
@@ -123,7 +123,7 @@ url = "#team"
 weight = 4
 
 [[Languages.fr.menu.main]]
-name = "tarification"
+name = "Avancement"
 url = "#pricing"
 weight = 5
 
